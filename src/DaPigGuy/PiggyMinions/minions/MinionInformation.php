@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DaPigGuy\PiggyMinions\minions;
+namespace Lightcamera1644\Minions\minions;
 
 use DaPigGuy\PiggyMinions\inventory\MinionInventory;
 use pocketmine\item\Item;
